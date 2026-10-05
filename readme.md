@@ -19,6 +19,8 @@ Dataset Authentication, Data Api calling, visualizaion, (RQ1) and its Hyptohesis
 
 Email: s23224522@al.tiu.ac.jp
 
+Email: s23224040@al.tiu.ac.jp
+
 ---
 
 ## Dataset Description
